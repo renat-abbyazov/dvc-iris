@@ -1,0 +1,8 @@
+train:
+  cmd: python src/train.py
+  deps:
+  - path: src/train.py
+    md5: 35d139b8dfcc93c9c0335528e44eb46f
+  outs:
+  - path: model.pkl
+    md5: 90963d79c6057085f1558ee8bf0c4bf3
