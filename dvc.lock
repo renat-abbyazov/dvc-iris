@@ -4,10 +4,10 @@ train:
   - path: data/prepared
     md5: cf73c24cac8807bd7c1c934b038f8556.dir
   - path: src/train.py
-    md5: 468d77cc5088833785b469bb6e31ff52
+    md5: ad87e302334a62836908ffe55e222497
   outs:
   - path: model.pkl
-    md5: 90963d79c6057085f1558ee8bf0c4bf3
+    md5: d3312ac1722d78c9426f8b69997e2040
 prepare:
   cmd: python src/prepare.py
   deps:
