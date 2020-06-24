@@ -4,7 +4,7 @@ train:
   - path: data/prepared
     md5: cf73c24cac8807bd7c1c934b038f8556.dir
   - path: src/train.py
-    md5: c6f238bada7b4fc617e2c25f8d0a755b
+    md5: 468d77cc5088833785b469bb6e31ff52
   outs:
   - path: model.pkl
     md5: 90963d79c6057085f1558ee8bf0c4bf3
